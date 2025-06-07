@@ -210,6 +210,7 @@ tools:
   - 3dc70b59608c
   - 6073bb457ec0
   - 86755160afbf
+  - c41d78ae5fee
   - d698c222f354
   - ddf54b12c295
   - f46f0e4f75c4
@@ -475,6 +476,7 @@ tools:
   owner: ecology
   revisions:
   - 894b4a8a9a7b
+  - e47dfd67f2b5
   tool_panel_section_label: Climate Analysis
 - name: bgc_canyon_b
   owner: ecology
