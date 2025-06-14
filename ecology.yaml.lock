@@ -470,11 +470,13 @@ tools:
   owner: ecology
   revisions:
   - 15260949227d
+  - 7536ba055525
   - f10c3f6ee575
   tool_panel_section_label: Climate Analysis
 - name: tool_odv
   owner: ecology
   revisions:
+  - 197286c1fcce
   - 894b4a8a9a7b
   - e47dfd67f2b5
   tool_panel_section_label: Climate Analysis
