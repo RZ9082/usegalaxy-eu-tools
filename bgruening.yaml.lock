@@ -127,6 +127,7 @@ tools:
   owner: bgruening
   revisions:
   - 6d8444408ff1
+  - 6d8be3337e2a
   - a6318f87f2cd
   - abba05ead5d7
   - d6ede73082da
@@ -217,6 +218,7 @@ tools:
 - name: mitohifi
   owner: bgruening
   revisions:
+  - 3fc33af5d9e2
   - 99ddbf037d98
   - bfab6f5b449d
   - f6065bc6e428
@@ -313,6 +315,7 @@ tools:
   revisions:
   - 369757ee56e4
   - 6f80b2dfb7d4
+  - ae6e0f77b759
   - f50d96aaa1f5
   tool_panel_section_label: GIS Data Handling
 - name: 3dtrees_detailview
@@ -368,6 +371,7 @@ tools:
 - name: 3dtrees_raycloudtools
   owner: bgruening
   revisions:
+  - 20712958f90e
   - 6d1330bc4774
   tool_panel_section_label: GIS Data Handling
 - name: jbrowse2
@@ -469,10 +473,12 @@ tools:
   - af3eed1f1abe
   - d77c67cfe2ca
   - e708a1191202
+  - fcc5617c18e9
   tool_panel_section_label: Imaging
 - name: yolo_training
   owner: bgruening
   revisions:
+  - 25a2de34c05e
   - 92d5c5e5c734
   - ad05e90d024b
   - bdff5d51a756
@@ -937,6 +943,7 @@ tools:
   - 33d53eb476fd
   - 49b4ee0d0965
   - e7b4afedc471
+  - ec6df5e22055
   tool_panel_section_label: Machine Learning
 - name: whisper
   owner: bgruening
@@ -956,6 +963,7 @@ tools:
   - 9450286c42ab
   - 9c91d13827ef
   - bd808d1c4e0c
+  - d1dc88960179
   - d89227ba1de6
   - e0a67265f3ed
   tool_panel_section_label: Machine Learning
@@ -966,6 +974,7 @@ tools:
   - 461b8e2d79d5
   - 693011647a67
   - 9c949eca5d72
+  - e6c626b3013b
   - e9a7cb5a3c63
   tool_panel_section_label: Machine Learning
 - name: flexynesis_plot
@@ -974,11 +983,13 @@ tools:
   - 07f018886d40
   - 07f595f34f29
   - 273b0c36d8a2
+  - 5f69690716cb
   - a9d1fe48e1e6
   tool_panel_section_label: Machine Learning
 - name: flexynesis_utils
   owner: bgruening
   revisions:
+  - 0e86b191f856
   - 35f41ee7ca20
   - 963b22bdf237
   - c348c91a487d
@@ -997,6 +1008,7 @@ tools:
   revisions:
   - 1aba57a5a716
   - 28e902e3d8d6
+  - 914a7b992c2c
   - 99898a312165
   tool_panel_section_label: Machine Learning
 - name: black_forest_labs_flux
@@ -1232,6 +1244,7 @@ tools:
   owner: bgruening
   revisions:
   - 0811613196a2
+  - 5a1ab5a96f3b
   - 5bd5f26279fd
   - a88a1e78702e
   - ed28a1feba82
