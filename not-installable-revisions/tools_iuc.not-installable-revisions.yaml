@@ -1398,6 +1398,7 @@ tools:
 - name: aldex2
   owner: iuc
   revisions:
+  - 75214276e2b7
   - f4d0bd4b4d6d
 - name: ampvis2_alpha_diversity
   owner: iuc
@@ -3565,6 +3566,7 @@ tools:
   owner: iuc
   revisions:
   - d3ebbf39b1c5
+  - de7795890bc5
 - name: isoformswitchanalyzer
   owner: iuc
   revisions:
@@ -4603,3 +4605,15 @@ tools:
   owner: iuc
   revisions:
   - 43af02990a47
+- name: adapter_removal
+  owner: iuc
+  revisions:
+  - 40874f772ea1
+- name: checkm2
+  owner: iuc
+  revisions:
+  - 304ac5b49dea
+- name: samtools_sort
+  owner: devteam
+  revisions:
+  - 69dca890852c
